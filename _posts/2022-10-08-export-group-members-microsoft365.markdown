@@ -12,7 +12,7 @@ One simple example of this was a client wanting to "tidy up" their Microsoft 365
 
 Well, it is. However, one piece of code I keep coming back to is when you have one "parent" key, such as a group, and a number of values underneath it. The ultimate goal is to list the groups as follows:
 
-![Group Members Excel Example](/_site/assets/group_members_example_excel_jpg.jpg)
+![Group Members Excel Example](/assets/group_members_example_excel_jpg.jpg)
 
 To do this, we need a nested `"foreach"` statement within `PowerShell`. I'll breakdown the code below as follows, which can also be found on my [GitHub][pythonshell-gh].
 
