@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I have been in the tech sector for around 10+ years. Generally, I am interested in Security, Microsoft product stack (Azure) and data analytics. I use Python and PowerShell primarily to carry out my "coding" and started this blog as a place to store my code for others to see as I feel the uses are generally broadly applicable!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[twitter]: https://twitter.com/Python_Shell
