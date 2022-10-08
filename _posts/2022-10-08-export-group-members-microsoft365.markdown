@@ -2,7 +2,7 @@
 layout: post
 title:  "Export Distribution Groups and their Members from Microsoft 365 to CSV"
 date:   2022-10-08 09:00:00 +0100
-categories: microsoft 365, powershell
+categories: microsoft365 powershell
 ---
 
 # Introduction
